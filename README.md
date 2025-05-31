@@ -80,17 +80,6 @@ Congratulations! You guessed the number in 3 tries!
 
 ---
 
-## 💡 Possible Improvements
-
-- Add difficulty levels (custom number ranges)
-- Limit the number of attempts
-- Add a "play again" option
-- Track statistics across multiple games
-- Input validation and error handling
-- GUI version with SFML or Qt
-
----
-
 ## 👤 Author
 
 - GitHub: [ROSSARKO](https://github.com/ROSSARKO)
@@ -102,23 +91,3 @@ Congratulations! You guessed the number in 3 tries!
 
 This project is released under the MIT License.  
 You are free to use, modify, and distribute it for learning and non-commercial purposes.
-
----
-
-## 📦 Optional: CMakeLists.txt
-
-If you'd like to build using CMake, create a `CMakeLists.txt` file in the project root:
-
-```cmake
-cmake_minimum_required(VERSION 3.10)
-project(NumberGuessingGame)
-
-set(CMAKE_CXX_STANDARD 20)
-set(CMAKE_CXX_STANDARD_REQUIRED ON)
-
-add_executable(NumberGuessingGame main.cpp)
-```
-
----
-
-Enjoy coding! 🎯
