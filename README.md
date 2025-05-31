@@ -1,5 +1,6 @@
 # 🎮 Number Guessing Game
 https://github.com/ROSSARKO/NumberGuessingGame
+
 A simple console-based number guessing game written in modern C++ (C++20). The computer randomly chooses a number between 1 and 100, and the player tries to guess it with hints provided after each guess.
 
 ---
